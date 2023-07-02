@@ -8,7 +8,7 @@
 4. copy the image file as well to the working directory to display the image
    (habit_tracker_image.JPG)
 
-5. run the main program (habit_tracker.py)
+5. run the main program (main.py)
 
 ---
 ---
