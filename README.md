@@ -25,11 +25,17 @@ habit it will set to break.
 
 7. when we load it into Pycharm then we need to copy the following files (to test the application):
    -users_describe.py
+   
    -describe_habit_table.py
+   
    -describe_habit_completion_table
+   
    -test_users_describe.py      --- (I copied all the test into this file. We need to run this file in pycharm to test.)
+   
    -test_describe_habit_table.py
+   
    -test_describe_habit_completion_table.py
+   
    
    
 
