@@ -24,6 +24,7 @@ habit it will set to break.
 -- To run run it in Pycharm we also have to add these files.
 
 7. when we load it into Pycharm then we need to copy the following files (to test the application):
+   
    -users_describe.py
    
    -describe_habit_table.py
