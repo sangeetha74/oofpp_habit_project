@@ -3,12 +3,7 @@
 2. run habit table script (habit_table.py)
 3. run habit_completion table (habit_completion_table.py)
 
-   ---please copy the JPG file to the working directory. 
-   ---Otherwise it will display the error message
-4. copy the image file as well to the working directory to display the image
-   (habit_tracker_image.JPG)
-
-5. run the main program (main.py)
+4. run the main program (main.py)
 
 ---
 ---
@@ -18,12 +13,12 @@ If we want to set the habit to break we have to run this program.
 It is nice to run this program at the end of the day. If user didn't check off their
 habit it will set to break.
 
-6. to_set_the_habit_to_break.py
+5. to_set_the_habit_to_break.py
 
 
 -- To run run it in Pycharm we also have to add these files.
 
-7. when we load it into Pycharm then we need to copy the following files (to test the application):
+6. when we load it into Pycharm then we need to copy the following files (to test the application):
    
    -users_describe.py
    
